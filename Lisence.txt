@@ -1,0 +1,18 @@
+Proprietary License — NIONI
+Copyright © 2025 Arctic Beast Software. All rights reserved.
+
+This software and its accompanying files are the intellectual property of Arctic Beast Software (“the Owner”).
+No part of this software, including code, assets, documentation, or design, may be copied, modified, distributed, sold, or used in any derivative works without explicit written permission from the Owner.
+
+By accessing or using this repository, you agree not to:
+
+Reproduce, distribute, or publicly display any part of the code or assets.
+
+Reverse engineer, decompile, or otherwise attempt to derive the source or inner workings of the system.
+
+Use any portion of this software in commercial, educational, or research contexts without written authorization.
+
+All rights reserved under international copyright law.
+Unauthorized use or redistribution of this software is strictly prohibited.
+
+For licensing inquiries, contact: dclore78@gmail.com
