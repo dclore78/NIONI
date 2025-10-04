@@ -7,4 +7,4 @@ Advanced AI audio controls and integrated chat archiving keep every session flow
 
 Custom premium themes and interface options bring a refined, personal feel to every workspace, blending precision, privacy, and performance in a single system built entirely for you.
 
-Private. Powerful. Effortless.
+Private. Powerful. Effortless.    Created By ArcticBeast Software 10/4/2025
