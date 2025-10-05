@@ -1,6 +1,6 @@
-# NIONI
+# NiOni
 
-NIONI is a self-contained, offline multi-agent environment built for uninterrupted creation.
+NiOni is a self-contained, offline multi-agent environment built for uninterrupted creation.
 It unites persistent memory, voice interaction, video and image viewing, document editing, and a dedicated persona editor in one cohesive workspace.
 
 Advanced AI audio controls and integrated chat archiving keep every session flowing without interruption. A GPU-backed core ensures smooth, reliable performance for extended chats and creative sessions. NIONI’s custom model store allows effortless model downloads without searching, and a default model comes built in — ready to converse the moment you launch.
